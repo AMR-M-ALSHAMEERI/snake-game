@@ -20,12 +20,14 @@ To run this project, you need Python installed on your system. The `curses` libr
 
 ## Running the Game
 
-To run the Snake Game, execute the following command in your terminal:
+To run the Snake Game, you have two options:
+
+1- Execute the Python script: Open your terminal, navigate to the project directory, and run the following command:
 
 ```bash
 python src/snake_game.py
 ```
-
+2- Use the executable version: Navigate to the `Ready To Play` folder in the repository and simply run the executable file.
 Enjoy playing the game!
 
-AM ^_^
+A.M ^_^
