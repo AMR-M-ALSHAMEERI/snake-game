@@ -28,6 +28,7 @@ To run the Snake Game, you have two options:
 python src/snake_game.py
 ```
 2- Use the executable version: Navigate to the `Ready To Play` folder in the repository and simply run the executable file.
+
 Enjoy playing the game!
 
 A.M ^_^
